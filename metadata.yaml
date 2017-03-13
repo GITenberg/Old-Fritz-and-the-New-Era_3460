@@ -1,10 +1,13 @@
 _repo: Old-Fritz-and-the-New-Era_3460
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Langley, Peter
     gutenberg_agent_id: '33017'
     url: http://www.gutenberg.org/2009/agents/33017
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mühlbach, L. (Luise)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/830
     wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
 description: 'Translation of: Der alte Fritz und seine Zeit.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3460#Old-Fritz-and-the-New-Era
 gutenberg_issued: '2002-10-01'
 gutenberg_type: Text
 identifiers:
